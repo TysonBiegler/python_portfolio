@@ -1,8 +1,6 @@
 ### Hey, Im Tyson Biegler and this is my
 ### Python portfolio.
 
-### Im uploading these files as .md rather than .py because I like the format for viewing better. 
-
 # Feel free to reach out if you have questions. 
 [![Linkedin Badge](https://img.shields.io/badge/-TysonBiegler-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tysonbiegler/)](https://www.linkedin.com/in/tysonbiegler/)
 
